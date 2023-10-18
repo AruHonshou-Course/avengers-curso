@@ -24,3 +24,4 @@
 22. Deadshot
 23. Scarecrow
 24. Aru
+25. Capitan America
